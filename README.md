@@ -16,7 +16,7 @@ power coins
     
 # Animation
 
-nimator manager
+Animator manager
 
 # Level Manager
 

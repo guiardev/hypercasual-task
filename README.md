@@ -1,25 +1,35 @@
-- Controler player touch
+# Controler player touch
 
-- moedas
+# moedas
 
-- add obstaculos
+# add obstaculos
 
-- powerups
-    - powerup speed
-    - powerup Invencivel
-    - powerup fly
-    - power coins
+# powerups
+
+powerup speed
+
+powerup Invencivel
+
+powerup fly
+
+power coins
     
-- Animation
-    - animator manager
+# Animation
 
-- Level Manager
-    - level base
-    - level manager
-    - Rondom cores
+nimator manager
 
-- poling game
-    - corotinas
-    - tweens
+# Level Manager
 
-- VFX and Particulas.
+level base
+
+level manager
+
+Rondom cores
+
+# poling game
+
+corotinas
+
+tweens
+
+# VFX and Particulas.

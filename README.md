@@ -1,3 +1,12 @@
+# Menu Game
+
+<table border="0">
+    <tr>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_menu.gif" width="480" height="700"/></td>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_BG_RectTransform_Image.png" width="470" height="400"/></td>
+    </tr>
+</table>
+
 # Controler player touch
 
 <table border="0">

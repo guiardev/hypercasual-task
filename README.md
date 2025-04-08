@@ -18,6 +18,8 @@ No canvas do menu vai estar com StarScream que vai esta como BG tem imagem que e
 
 O script playerController vai cuidar toda configurações do player como animação e lerp e limites e também VFX, e o script bounceHelper fazer animação do player utilizando biblioteca DG.Tweening.
 
+O TouchController vai ser responsável pela movimentação com click do mouse no smartphone com toque do dedo do jogador, o player vai seguir game objeto positionController.
+
 <table border="0">
     <tr>
       <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_playerController_bounceHelper_SphereCollider.png" width="490" height="700"/></td>

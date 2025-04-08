@@ -16,6 +16,8 @@ No canvas do menu vai estar com StarScream que vai esta como BG tem imagem que e
 
 # Controler player touch
 
+O script playerController vai cuidar toda configurações do player como animação e lerp e limites e também VFX, e o script bounceHelper fazer animação do player utilizando biblioteca DG.Tweening.
+
 <table border="0">
     <tr>
       <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_playerController_bounceHelper_SphereCollider.png" width="490" height="700"/></td>

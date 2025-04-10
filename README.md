@@ -42,7 +42,9 @@ No player vai ter um gameobject chamado Coincollector que vai coletar as moedas 
 
 <img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector.png" width="495" height="350"/>
 
-# obstaculos
+# obstáculos
+
+
 
 # powerups
 

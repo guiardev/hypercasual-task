@@ -29,12 +29,18 @@ O TouchController vai ser responsável pela movimentação segurando o clique do
 
 # moedas
 
+As moedas do jogo vão ser criadas redondamente no cenário e quando a personagem encostar nela vai ela vai ser destruída e vai aparecer um efeito em VFX com várias moedas caindo no chão.
+
 <table border="0">
     <tr>
       <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_coins.gif" width="450" height="650"/></td>
-      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector.png" width="495" height="350"/></td>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_SphereCollider_ItemCollectableCoin.png" width="495" height="430"/></td>
     </tr>
 </table>
+
+No player vai ter gameobject Coincollector que vai coletar as moedas quando jogador encostar na moeda.
+
+<img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector.png" width="495" height="350"/>
 
 # add obstaculos
 

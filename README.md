@@ -27,8 +27,14 @@ O TouchController vai ser responsável pela movimentação segurando o clique do
     </tr>
 </table>
 
-
 # moedas
+
+<table border="0">
+    <tr>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_coins.gif" width="490" height="670"/></td>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector.png" width="495" height="350"/></td>
+    </tr>
+</table>
 
 # add obstaculos
 

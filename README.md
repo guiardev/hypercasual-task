@@ -38,7 +38,7 @@ As moedas do jogo vão ser criadas redondamente no cenário e quando a personage
     </tr>
 </table>
 
-No player vai ter gameobject Coincollector que vai coletar as moedas quando jogador encostar na moeda.
+No player vai ter um gameobject chamado Coincollector que vai coletar as moedas quando jogador encostar na moeda.
 
 <img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector.png" width="495" height="350"/>
 

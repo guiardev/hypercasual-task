@@ -38,7 +38,7 @@ As moedas do jogo vão ser criadas redondamente no cenário e quando a personage
     </tr>
 </table>
 
-No player vai ter um gameobject chamado Coincollector que vai Sphere collider vai ser responsável pelas coleta das moedas e script itemCollectableCoin administrar os comportamento das moedas.
+No player vai ter um gameobject chamado CoinCollector que vai Sphere collider vai ser responsável pelas coleta das moedas e script itemCollectableCoin administrar os comportamento das moedas.
 
 <img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector.png" width="495" height="350"/>
 

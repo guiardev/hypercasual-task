@@ -66,7 +66,7 @@ A tela gameover vai estar com as mesmas objectos como BG tem imagem que escurece
 
 # PowerUps
 
-<h2>PowerUp Coins</h2>
+<h3>PowerUp Coins</h3>
 
 Quando o powerUp coins for ativado as moedas do jogo seguir personagem em um distância por uns segundos. O script do PowerUpCoin herda todas variáveis e classe PowerBase e BoxCollider ativado Trigger.
     

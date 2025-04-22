@@ -68,7 +68,7 @@ A tela gameover vai estar com as mesmas objectos como BG tem imagem que escurece
 
 <h2>PowerUp Coins</h2>
 
-Quando o powerUp coins for ativado as moedas do jogo seguir personagem em um distância por uns segundos.
+Quando o powerUp coins for ativado as moedas do jogo seguir personagem em um distância por uns segundos. O script do PowerUpCoin herda todas variáveis e classe PowerBase e BoxCollider ativado Trigger.
     
 <table border="0">
     <tr>
@@ -76,6 +76,8 @@ Quando o powerUp coins for ativado as moedas do jogo seguir personagem em um dis
       <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_BoxCollider_PowerUpCoin.png" width="480" height="380"/></td>
     </tr>
 </table>
+
+Quando o player pegar power up coins objecto que está no personagem é chamado CoinCollector vai aumentar o SpheneCollider que está com Trigger ativado.
 
 <table border="0">
     <tr>

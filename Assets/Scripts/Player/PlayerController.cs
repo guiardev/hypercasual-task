@@ -69,7 +69,9 @@ public class PlayerController : Singleton<PlayerController>{
     public void OnCollisionEnter(Collision col){
         if(col.transform.tag == tagToCheckEnemy){
             MoveBack(col.transform);
-            if(!invincible) EndGame(AnimatorManager.AnimationType.DEAD);
+            if(!invincible) {
+                EndGame(AnimatorManager.AnimationType.DEAD);
+            }
         }
     }
 
@@ -88,6 +90,8 @@ public class PlayerController : Singleton<PlayerController>{
         endScreen.SetActive(true);
         animatorManager.Play(animationType);
         vfxDeath?.Play();
+        animatorManager.Stop();
+        //animatorManager.Play(AnimatorManager.AnimationType.END, 1);
     }
 
     public void StartToRun(){

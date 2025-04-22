@@ -6,7 +6,7 @@ No canvas do menu vai estar com StarScream que vai esta como BG tem imagem que e
 
 <table border="0">
     <tr>
-      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_menu.gif" width="480" height="700"/></td>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_menu.gif" width="450" height="650"/></td>
       <td>
           <img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_BG_RectTransform_Image.png" width="470" height="400"/>
           <img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_BtnPlay.png" width="470" height="160"/>
@@ -27,10 +27,24 @@ O TouchController vai ser responsável pela movimentação segurando o clique do
     </tr>
 </table>
 
-
 # moedas
 
-# add obstaculos
+As moedas do jogo vão ser criadas redondamente no cenário e quando a personagem encostar nela vai ela vai ser destruída e vai aparecer um efeito em VFX com várias moedas caindo no chão.
+
+<table border="0">
+    <tr>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_coins.gif" width="450" height="650"/></td>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_SphereCollider_ItemCollectableCoin.png" width="495" height="430"/></td>
+    </tr>
+</table>
+
+No player vai ter um gameobject chamado CoinCollector que vai Sphere collider vai ser responsável pelas coleta das moedas e script itemCollectableCoin administrar os comportamento das moedas.
+
+<img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector.png" width="495" height="350"/>
+
+# obstáculos
+
+
 
 # powerups
 

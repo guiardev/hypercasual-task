@@ -7,6 +7,8 @@ public class AnimatorManager : MonoBehaviour{
     public Animator animator;
     public List<AnimatitorSetup> animatorSetups;
 
+    public float secondsStop = 1;
+
     public enum AnimationType{
         IDLE, RUN, DEAD
     }
@@ -25,10 +27,21 @@ public class AnimatorManager : MonoBehaviour{
             if(animation.type == type){
                 animator.SetTrigger(animation.trigger);
                 animator.speed = animation.speed * currentSpeedFactor;
-                break; // break e para porque ele ja achou que ele precisa
+                break; // break e para ele já achou que ele precisava, ele precisa ser avisado que para loop.
             }
         }
     }
+
+    public void Stop(){
+        StartCoroutine(StopAnimation());
+    }
+
+    IEnumerator StopAnimation(){
+        yield return new WaitForSeconds(secondsStop);
+        animator.enabled = false;
+    }
+
+    
 
     // Update is called once per frame
     void Update(){

@@ -44,7 +44,12 @@ No player vai ter um gameobject chamado CoinCollector que vai Sphere collider va
 
 # obstáculos
 
-
+<table border="0">
+    <tr>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Enemy_MovimentHelper.pngf" width="480" height="300"/></td>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_Death.gif" width="450" height="650"/></td>
+    </tr>
+</table>
 
 # powerups
 

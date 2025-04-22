@@ -44,7 +44,14 @@ No player vai ter um gameobject chamado CoinCollector que vai Sphere collider va
 
 # obstáculos
 
+O jogo vai ter obstáculos que vão se movimentar de um lado para outro seguindo objectos A e B, se o jogador encostar nos obstáculos da gameover.
 
+<table border="0">
+    <tr>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_Death.gif" width="450" height="650"/></td>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Enemy_MovimentHelper.png" width="480" height="300"/></td>
+    </tr>
+</table>
 
 # powerups
 

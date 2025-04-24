@@ -70,7 +70,7 @@ MonoBehaviour:
   graphicItem: {fileID: 7834209795278488959}
   compareTag: Player
   timeToHide: 3
-  duration: 2
+  duration: 3
 --- !u!1 &7834209795278488959
 GameObject:
   m_ObjectHideFlags: 0

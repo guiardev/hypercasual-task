@@ -125,12 +125,17 @@ O power up height vai fazer o player voar por segundos e depois voltar para o ch
     
 # Animation
 
-<h3>Animator manager</h3>
+<h3>Animator</h3>
+
+O animador tem 3 parâmetros Idle quando personagem estiver parado, Run quando player estiver correto e Dead quando jogador perder o jogo.
 
 <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Animator.png" width="1100" height="340"/></td>
 
-<td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_AnimatorManager.png" width="480" height="350"/></td>
+<h3>Animator Manager</h3>
 
+O script AnimatorManager vai administrar animações do personagem.
+
+<td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_AnimatorManager.png" width="480" height="350"/></td>
 
 # Level Manager
 

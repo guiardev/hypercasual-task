@@ -88,11 +88,11 @@ Quando o player pegar power up coins objecto que está no personagem é chamado 
     </tr>
 </table>
     
-<li><h2>PowerUp Speed</h2></li>
+<li><h3>PowerUp Speed</h3></li>
 
-<li><h2>PowerUp Invencivel</h2></li>
+<li><h3>PowerUp Invencivel</h3></li>
     
-<li><h2>PowerUp Fly</h2></li>
+<li><h3>PowerUp Fly</h3></li>
 
 </ol>
 

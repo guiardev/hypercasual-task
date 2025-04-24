@@ -66,25 +66,30 @@ A tela gameover vai estar com as mesmas objectos como BG tem imagem que escurece
 
 # PowerUps
 
-<h3>PowerUp Coins</h3>
-
-Quando o powerUp coins for ativado as moedas do jogo seguir personagem em um distância por uns segundos. O script do PowerUpCoin herda todas variáveis e classe PowerBase e BoxCollider ativado Trigger.
+<ol>
+  <li><h3>PowerUp Coins</h3></li>
     
-<table border="0">
-    <tr>
-      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_PowerUpCoins.gif" width="450" height="650"/></td>
-      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_BoxCollider_PowerUpCoin.png" width="480" height="380"/></td>
-    </tr>
-</table>
-
-Quando o player pegar power up coins objecto que está no personagem é chamado CoinCollector vai aumentar o SpheneCollider que está com Trigger ativado.
-
-<table border="0">
-    <tr>
-      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector_active.png" width="600" height="550"/></td>
-      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector.png" width="480" height="350"/></td>
-    </tr>
-</table>
+    Quando o powerUp coins for ativado as moedas do jogo seguir personagem em um distância por uns segundos. O script do PowerUpCoin herda todas variáveis e classe PowerBase e BoxCollider ativado Trigger.
+        
+    <table border="0">
+        <tr>
+          <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_PowerUpCoins.gif" width="450" height="650"/></td>
+          <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_BoxCollider_PowerUpCoin.png" width="480" height="380"/></td>
+        </tr>
+    </table>
+    
+    Quando o player pegar power up coins objecto que está no personagem é chamado CoinCollector vai aumentar o SpheneCollider que está com Trigger ativado.
+    
+    <table border="0">
+        <tr>
+          <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector_active.png" width="600" height="550"/></td>
+          <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector.png" width="480" height="350"/></td>
+        </tr>
+    </table>
+    
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
 
 
 <h2>PowerUp Speed</h2>

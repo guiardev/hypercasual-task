@@ -100,6 +100,15 @@ O power up speed vai aumentar a velocidade do player por um segundos.
 </table>
 
 <li><h3>PowerUp Invencivel</h3></li>
+
+O power up invincible vai deixar o personagem invencível e não vai morrer de bater no obstáculo.
+    
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_PowerUpInvincible.gif" width="450" height="650"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_BoxCollider_PowerUpInvincible.png" width="480" height="350"/></td>
+    </tr>
+</table>
     
 <li><h3>PowerUp Fly</h3></li>
 

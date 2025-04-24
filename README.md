@@ -53,15 +53,48 @@ O jogo vai ter obstáculos que vão se movimentar de um lado para outro seguindo
     </tr>
 </table>
 
-# powerups
+# gameover
 
-powerup speed
+A tela gameover vai estar com as mesmas objectos como BG tem imagem que escurece tela e botão restart.
 
-powerup Invencivel
+<table border="0">
+    <tr>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_Death.gif" width="450" height="650"/></td>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_BtnRestart.png" width="480" height="500"/></td>
+    </tr>
+</table>
 
-powerup fly
+# PowerUps
 
-power coins
+<ol>
+
+<li><h3>PowerUp Coins</h3></li>
+
+Quando o powerUp coins for ativado as moedas do jogo seguir personagem em um distância por uns segundos. O script do PowerUpCoin herda todas variáveis e classe PowerBase e BoxCollider ativado Trigger.</br>
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_PowerUpCoins.gif" width="450" height="650"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_BoxCollider_PowerUpCoin.png" width="480" height="380"/></td>
+    </tr>
+</table>
+    
+Quando o player pegar power up coins objecto que está no personagem é chamado CoinCollector vai aumentar o SpheneCollider que está com Trigger ativado.
+    
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector_active.png" width="600" height="550"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector.png" width="480" height="350"/></td>
+    </tr>
+</table>
+    
+<li><h3>PowerUp Speed</h3></li>
+
+<li><h3>PowerUp Invencivel</h3></li>
+    
+<li><h3>PowerUp Fly</h3></li>
+
+</ol>
     
 # Animation
 

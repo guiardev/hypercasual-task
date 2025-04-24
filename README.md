@@ -149,6 +149,6 @@ O script AnimatorManager vai administrar animações do personagem.
 
 <h3>corotinas</h3>
 
-h3>tweens</h3>
+<h3>tweens</h3>
 
 # VFX and Particulas.

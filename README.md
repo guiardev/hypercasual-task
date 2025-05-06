@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fd388d24-27f3-42cf-aaa1-d8174d30f466)# Menu Game
+# Menu Game
 
 O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo começa.
 

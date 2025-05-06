@@ -74,6 +74,8 @@ O jogo vai ter obstáculos que vão se movimentar de um lado para outro seguindo
 
 # gameover
 
+<h3>BtnRestart</h3>
+
 A tela gameover vai estar com as mesmas objectos como BG tem imagem que escurece tela e botão restart.
 
 <table border="0">

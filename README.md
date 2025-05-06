@@ -139,9 +139,14 @@ O script AnimatorManager vai administrar animações do personagem.
 
 # Level Manager
 
-<h3>level base</h3>
-
 <h3>level manager</h3>
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/record_LevelManager.gif" width="450" height="650"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_LevelManager.png" width="480" height="350"/></td>
+    </tr>
+</table>
 
 <h3>Rondom cores</h3>
 

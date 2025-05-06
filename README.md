@@ -141,8 +141,11 @@ O script AnimatorManager vai administrar animações do personagem.
 
 <h3>level manager</h3>
 
+O script level manager vai gerenciar as peças que vai montar a fase, a variável lista levelPieceBasedSetups que vai carregar os scripts configurações do level o script que vai esta lista vai ser um tipo scriptable, 
+que vai estar todas as configurações das peças e definindo que tipo de peças vai esta no celario.
+
 <table border="0">
-    <tr>5
+    <tr>
         <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/record_LevelManager.gif" width="530" height="550"/></td>
         <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_LevelManager.png" width="480" height="350"/></td>
     </tr>

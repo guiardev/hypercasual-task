@@ -1,4 +1,4 @@
-# Menu Game
+![image](https://github.com/user-attachments/assets/fd388d24-27f3-42cf-aaa1-d8174d30f466)# Menu Game
 
 O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo começa.
 
@@ -142,8 +142,8 @@ O script AnimatorManager vai administrar animações do personagem.
 <h3>level manager</h3>
 
 <table border="0">
-    <tr>
-        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/record_LevelManager.gif" width="450" height="650"/></td>
+    <tr>5
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/record_LevelManager.gif" width="730" height="550"/></td>
         <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_LevelManager.png" width="480" height="350"/></td>
     </tr>
 </table>

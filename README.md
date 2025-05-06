@@ -139,7 +139,7 @@ O script AnimatorManager vai administrar animações do personagem.
 
 # Level Manager
 
-<h3>level manager</h3>
+<h3>Level Manager</h3>
 
 O script level manager vai gerenciar as peças que vai montar a fase, a variável lista levelPieceBasedSetups que vai carregar os scripts configurações do level o script que vai esta lista vai ser um tipo scriptable, 
 que vai estar todas as configurações das peças e definindo que tipo de peças vai esta no celario.
@@ -151,6 +151,8 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
     </tr>
 </table>
 
+<h3>Scriptable LevelPieceBasedSetup e ArtManager</h3>
+
 O scriptable level 1 e todas configurações vão criar a fase do jogo. O script ArtManager vai responsavel colocar arte do cenário no seus lugares.
 
 <table border="0">
@@ -160,7 +162,11 @@ O scriptable level 1 e todas configurações vão criar a fase do jogo. O script
     </tr>
 </table>
 
-<h3>Rondom cores</h3>
+<h3>Rondom Cores</h3>
+
+O script color manager vai randomizando cores das peças e os materiais do level.
+
+<img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ColorManager.png" width="480" height="450"/>
 
 # poling game
 

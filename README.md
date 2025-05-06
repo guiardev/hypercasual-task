@@ -16,7 +16,11 @@ No canvas do menu vai estar com StarScream que vai esta como BG tem imagem que e
 
 # Controler player touch
 
+<h3>playerController</h3>
+
 O script playerController vai cuidar toda configurações do player como animação e lerp e limites e também VFX, e o script bounceHelper fazer animação do player utilizando biblioteca DG.Tweening.
+
+<h3>TouchController</h3>
 
 O TouchController vai ser responsável pela movimentação segurando o clique do mouse no smartphone com toque do dedo do jogador, o player vai seguir game objeto positionController.
 
@@ -29,6 +33,8 @@ O TouchController vai ser responsável pela movimentação segurando o clique do
 
 # moedas
 
+<h3>ItemCollectableCoin</h3>
+
 As moedas do jogo vão ser criadas redondamente no cenário e quando a personagem encostar nela vai ela vai ser destruída e vai aparecer um efeito em VFX com várias moedas caindo no chão.
 
 <table border="0">
@@ -38,7 +44,11 @@ As moedas do jogo vão ser criadas redondamente no cenário e quando a personage
     </tr>
 </table>
 
+<h3>CoinCollector</h3>
+
 No player vai ter um gameobject chamado CoinCollector que vai Sphere collider vai ser responsável pelas coleta das moedas e script itemCollectableCoin administrar os comportamento das moedas.
+
+<h3>CoinsAnimationManager</h3>
 
 O script CoinsAnimationManager vai cuidar de animações quando o player pegar elas, e variável List que vai acumular todas as moedas do jogo quando game estiverem ligados.
 
@@ -50,6 +60,8 @@ O script CoinsAnimationManager vai cuidar de animações quando o player pegar e
 </table>
 
 # obstáculos
+
+<h3>Enemy_MovimentHelper</h3>
 
 O jogo vai ter obstáculos que vão se movimentar de um lado para outro seguindo objectos A e B, se o jogador encostar nos obstáculos da gameover.
 

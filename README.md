@@ -151,6 +151,8 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
     </tr>
 </table>
 
+O scriptable level 1 e todas configurações vão criar a fase do jogo.
+
 <img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_LevelPieceBasedSetup.png" width="480" height="470"/>
 
 <h3>Rondom cores</h3>

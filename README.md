@@ -40,6 +40,8 @@ As moedas do jogo vão ser criadas redondamente no cenário e quando a personage
 
 No player vai ter um gameobject chamado CoinCollector que vai Sphere collider vai ser responsável pelas coleta das moedas e script itemCollectableCoin administrar os comportamento das moedas.
 
+O script CoinsAnimationManager vai cuidar de animações quando o player pegar elas, e variável List que vai acumular todas as moedas do jogo quando game estiverem ligados.
+
 <table border="0">
     <tr>
       <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector.png" width="495" height="350"/></td>

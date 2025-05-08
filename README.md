@@ -20,7 +20,7 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
 
 # Controler player touch
 
-<h3>playerController</h3>
+<h3>PlayerController</h3>
 
 + O script playerController vai cuidar toda configurações do player como animação e lerp e limites e também VFX, e o script bounceHelper fazer animação do player utilizando biblioteca DG.Tweening.
 

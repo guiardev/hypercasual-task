@@ -219,6 +219,6 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
     </tr>
 </table>
 
-<td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ParticleSystem_Coins_Emission.png" width="450" height="550"/></td>
+<td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ParticleSystem_Coins_Emission.png" width="495" height="430"/></td>
 <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ParticleSystem_Coins_Shape..png" width="450" height="300"/></td>
 

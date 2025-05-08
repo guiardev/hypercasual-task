@@ -201,6 +201,8 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
 
 <h3>TrailRenderer</h3>
 
+ + Trail vai criar um rastros no personagem quando ele estiver movimentando.
+
 <table border="0">
     <tr>
         <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_menu.gif" width="450" height="650"/></td>

@@ -106,7 +106,7 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
 
 <h3>CoinCollector</h3>
     
-+ Quando o player pegar power up coins objecto que está no personagem é chamado CoinCollector vai aumentar o SpheneCollider que está com Trigger ativado.
++ Quando o player pegar power up coins objecto que está no personagem é chamado CoinCollector vai aumentar o SpheneCollider que está com Trigger ativado.</br>
     
 <table border="0">
     <tr>
@@ -117,7 +117,7 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
     
 <li><h3>PowerUp Speed</h3></li>
 
-+ O power up speed vai aumentar a velocidade do player por um segundos.
++ O power up speed vai aumentar a velocidade do player por um segundos.</br>
     
 <table border="0">
     <tr>
@@ -128,7 +128,7 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
 
 <li><h3>PowerUp Invencivel</h3></li>
 
-+ O power up invincible vai deixar o personagem invencível e não vai morrer de bater no obstáculo por uns segundos.
++ O power up invincible vai deixar o personagem invencível e não vai morrer de bater no obstáculo por uns segundos.</br>
     
 <table border="0">
     <tr>
@@ -139,7 +139,7 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
     
 <li><h3>PowerUp Fly</h3></li>
 
-+ O power up height vai fazer o player voar por segundos e depois voltar para o chão. 
++ O power up height vai fazer o player voar por segundos e depois voltar para o chão.</br>
     
 <table border="0">
     <tr>

@@ -63,7 +63,7 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
     </tr>
 </table>
 
-# obstáculos
+# Obstáculos
 
 <h3>Enemy_MovimentHelper</h3>
 
@@ -76,7 +76,7 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
     </tr>
 </table>
 
-# gameover
+# Gameover
 
 <h3>BtnRestart</h3>
 
@@ -169,7 +169,9 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
 <h3>Level Manager</h3>
 
  + O script level manager vai gerenciar as peças que vai montar a fase, a variável lista levelPieceBasedSetups que vai carregar os scripts configurações do level o script que vai esta lista vai ser um tipo scriptable, 
-que vai estar todas as configurações das peças e definindo que tipo de peças vai esta no celario.
+que vai estar todas as configurações das peças e definindo que tipo de peças vai esta no cenário.
+
++ Escalando objetos usando corrotinas assim as peças vão ser montadas aos poucos, a variável scaleDuration e a scaleTimeBetweenPieces que vai definir o tempo que as peças vão ser montadas.
 
 <table border="0">
     <tr>
@@ -194,11 +196,5 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
  + O script color manager vai randomizando cores das peças e os materiais do level.
 
 <img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ColorManager.png" width="480" height="450"/>
-
-# poling game
-
-<h3>corotinas</h3>
-
-<h3>tweens</h3>
 
 # VFX and Particulas.

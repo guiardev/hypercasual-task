@@ -2,7 +2,11 @@
 
 O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo começa.
 
-No canvas do menu vai estar com StarScream que vai esta como BG tem imagem que escurece tela e botão play.
+<h3>StarScream</h3>
+
++ No canvas do menu vai estar com StarScream que vai esta como BG tem imagem que escurece tela e botão play.
+
+<h3>BG_RectTransform_Image e BtnPlay</h3>
 
 <table border="0">
     <tr>
@@ -16,9 +20,13 @@ No canvas do menu vai estar com StarScream que vai esta como BG tem imagem que e
 
 # Controler player touch
 
-O script playerController vai cuidar toda configurações do player como animação e lerp e limites e também VFX, e o script bounceHelper fazer animação do player utilizando biblioteca DG.Tweening.
+<h3>PlayerController</h3>
 
-O TouchController vai ser responsável pela movimentação segurando o clique do mouse no smartphone com toque do dedo do jogador, o player vai seguir game objeto positionController.
++ O script playerController vai cuidar toda configurações do player como animação e lerp e limites e também VFX, e o script bounceHelper fazer animação do player utilizando biblioteca DG.Tweening.
+
+<h3>TouchController</h3>
+
++ O TouchController vai ser responsável pela movimentação segurando o clique do mouse no smartphone com toque do dedo do jogador, o player vai seguir game objeto positionController.
 
 <table border="0">
     <tr>
@@ -27,9 +35,11 @@ O TouchController vai ser responsável pela movimentação segurando o clique do
     </tr>
 </table>
 
-# moedas
+# Moedas
 
-As moedas do jogo vão ser criadas redondamente no cenário e quando a personagem encostar nela vai ela vai ser destruída e vai aparecer um efeito em VFX com várias moedas caindo no chão.
+<h3>ItemCollectableCoin</h3>
+
++ As moedas do jogo vão ser criadas redondamente no cenário e quando a personagem encostar nela vai ela vai ser destruída e vai aparecer um efeito em VFX com várias moedas caindo no chão.
 
 <table border="0">
     <tr>
@@ -38,13 +48,26 @@ As moedas do jogo vão ser criadas redondamente no cenário e quando a personage
     </tr>
 </table>
 
-No player vai ter um gameobject chamado CoinCollector que vai Sphere collider vai ser responsável pelas coleta das moedas e script itemCollectableCoin administrar os comportamento das moedas.
+<h3>CoinCollector</h3>
 
-<img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector.png" width="495" height="350"/>
++ No player vai ter um gameobject chamado CoinCollector que vai Sphere collider vai ser responsável pelas coleta das moedas e script itemCollectableCoin administrar os comportamento das moedas.
 
-# obstáculos
+<h3>CoinsAnimationManager</h3>
 
-O jogo vai ter obstáculos que vão se movimentar de um lado para outro seguindo objectos A e B, se o jogador encostar nos obstáculos da gameover.
++ O script CoinsAnimationManager vai cuidar de animações quando o player pegar elas, e variável List que vai acumular todas as moedas do jogo quando game estiverem ligados.
+
+<table border="0">
+    <tr>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinCollector.png" width="495" height="350"/></td>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_CoinsAnimationManager.png" width="495" height="209"/></td>
+    </tr>
+</table>
+
+# Obstáculos
+
+<h3>Enemy_MovimentHelper</h3>
+
++ O jogo vai ter obstáculos que vão se movimentar de um lado para outro seguindo objectos A e B, se o jogador encostar nos obstáculos da gameover.
 
 <table border="0">
     <tr>
@@ -53,9 +76,11 @@ O jogo vai ter obstáculos que vão se movimentar de um lado para outro seguindo
     </tr>
 </table>
 
-# gameover
+# Gameover
 
-A tela gameover vai estar com as mesmas objectos como BG tem imagem que escurece tela e botão restart.
+<h3>BtnRestart</h3>
+
++ A tela gameover vai estar com as mesmas objectos como BG tem imagem que escurece tela e botão restart.
 
 <table border="0">
     <tr>
@@ -70,7 +95,7 @@ A tela gameover vai estar com as mesmas objectos como BG tem imagem que escurece
 
 <li><h3>PowerUp Coins</h3></li>
 
-Quando o powerUp coins for ativado as moedas do jogo seguir personagem em um distância por uns segundos. O script do PowerUpCoin herda todas variáveis e classe PowerBase e BoxCollider ativado Trigger.</br>
++ Quando o powerUp coins for ativado as moedas do jogo seguir personagem em um distância por uns segundos. O script do PowerUpCoin herda todas variáveis e classe PowerBase e BoxCollider ativado Trigger.
 
 <table border="0">
     <tr>
@@ -78,8 +103,10 @@ Quando o powerUp coins for ativado as moedas do jogo seguir personagem em um dis
         <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_BoxCollider_PowerUpCoin.png" width="480" height="380"/></td>
     </tr>
 </table>
+
+<h3>CoinCollector</h3>
     
-Quando o player pegar power up coins objecto que está no personagem é chamado CoinCollector vai aumentar o SpheneCollider que está com Trigger ativado.
++ Quando o player pegar power up coins objecto que está no personagem é chamado CoinCollector vai aumentar o SpheneCollider que está com Trigger ativado.
     
 <table border="0">
     <tr>
@@ -90,7 +117,7 @@ Quando o player pegar power up coins objecto que está no personagem é chamado 
     
 <li><h3>PowerUp Speed</h3></li>
 
-O power up speed vai aumentar a velocidade do player por um segundos.
++ O power up speed vai aumentar a velocidade do player por um segundos.
     
 <table border="0">
     <tr>
@@ -101,7 +128,7 @@ O power up speed vai aumentar a velocidade do player por um segundos.
 
 <li><h3>PowerUp Invencivel</h3></li>
 
-O power up invincible vai deixar o personagem invencível e não vai morrer de bater no obstáculo por uns segundos.
++ O power up invincible vai deixar o personagem invencível e não vai morrer de bater no obstáculo por uns segundos.
     
 <table border="0">
     <tr>
@@ -112,7 +139,7 @@ O power up invincible vai deixar o personagem invencível e não vai morrer de b
     
 <li><h3>PowerUp Fly</h3></li>
 
-O power up height vai fazer o player voar por segundos e depois voltar para o chão. 
++ O power up height vai fazer o player voar por segundos e depois voltar para o chão.
     
 <table border="0">
     <tr>
@@ -127,13 +154,13 @@ O power up height vai fazer o player voar por segundos e depois voltar para o ch
 
 <h3>Animator</h3>
 
-O animador tem 3 parâmetros Idle quando personagem estiver parado, Run quando player estiver correto e Dead quando jogador perder o jogo.
++ O animador tem 3 parâmetros Idle quando personagem estiver parado, Run quando player estiver correto e Dead quando jogador perder o jogo.
 
 <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Animator.png" width="1100" height="340"/></td>
 
 <h3>Animator Manager</h3>
 
-O script AnimatorManager vai administrar animações do personagem.
++ O script AnimatorManager vai administrar animações do personagem.
 
 <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_AnimatorManager.png" width="480" height="350"/></td>
 
@@ -141,8 +168,10 @@ O script AnimatorManager vai administrar animações do personagem.
 
 <h3>Level Manager</h3>
 
-O script level manager vai gerenciar as peças que vai montar a fase, a variável lista levelPieceBasedSetups que vai carregar os scripts configurações do level o script que vai esta lista vai ser um tipo scriptable, 
-que vai estar todas as configurações das peças e definindo que tipo de peças vai esta no celario.
+ + O script level manager vai gerenciar as peças que vai montar a fase, a variável lista levelPieceBasedSetups que vai carregar os scripts configurações do level o script que vai esta lista vai ser um tipo scriptable, 
+que vai estar todas as configurações das peças e definindo que tipo de peças vai esta no cenário.
+
++ Escalando objetos usando corrotinas assim as peças vão ser montadas aos poucos, a variável scaleDuration e a scaleTimeBetweenPieces que vai definir o tempo que as peças vão ser montadas.
 
 <table border="0">
     <tr>
@@ -153,7 +182,7 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
 
 <h3>Scriptable LevelPieceBasedSetup e ArtManager</h3>
 
-O scriptable level 1 e todas configurações vão criar a fase do jogo. O script ArtManager vai responsavel colocar arte do cenário no seus lugares.
+ + O scriptable level 1 e todas configurações vão criar a fase do jogo. O script ArtManager vai responsavel colocar arte do cenário no seus lugares.
 
 <table border="0">
     <tr>
@@ -164,14 +193,8 @@ O scriptable level 1 e todas configurações vão criar a fase do jogo. O script
 
 <h3>Rondom Cores</h3>
 
-O script color manager vai randomizando cores das peças e os materiais do level.
+ + O script color manager vai randomizando cores das peças e os materiais do level.
 
 <img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ColorManager.png" width="480" height="450"/>
-
-# poling game
-
-<h3>corotinas</h3>
-
-<h3>tweens</h3>
 
 # VFX and Particulas.

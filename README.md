@@ -238,12 +238,15 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
 
 <h3>Particle System VFX_Kill</h3>
 
++ O Particle System VFX_Kill vai aparecer quando o personagem morrer.
+
 <table border="0">
     <tr>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_Death.gif" width="450" height="650"/></td> 
       <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ParticleSystem_VFXKill_Emission.png" width="490" height="550"/></td>
-      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ParticleSystem_VFXKill_Shape_Size-over-Lifetime.png" width="492" height="442"/></td>
     </tr>
     <tr>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ParticleSystem_VFXKill_Shape_Size-over-Lifetime.png" width="492" height="442"/></td>  
       <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ParticleSystem_VFXKill_Renderer..png" width="490" height="440"/></td>
     </tr>
 </table>

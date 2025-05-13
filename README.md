@@ -210,6 +210,15 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
     </tr>
 </table>
 
+<h3>LineRenderer</h3>
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_LineRenderer.png" width="650" height="480"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_LineRendererObject.png" width="490" height="800"/></td>
+    </tr>
+</table>
+
 <h3>ItemCollectableCoin</h3>
 
 + O script ItemCollectableCoin vai cudar das configurações das moedas e efeitos delas.

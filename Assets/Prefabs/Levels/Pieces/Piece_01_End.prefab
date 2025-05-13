@@ -246,6 +246,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Line Renderer
       objectReference: {fileID: 0}
+    - target: {fileID: 1272007378626563276, guid: f3a4700fa3fb62a6cace266a217aadf8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2545114553544394938, guid: f3a4700fa3fb62a6cace266a217aadf8, type: 3}
       propertyPath: positions.Array.data[0]
       value: 

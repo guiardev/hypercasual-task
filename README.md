@@ -235,3 +235,15 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
       <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ParticleSystem_Coins_Renderer..png" width="490" height="430"/></td>
     </tr>
 </table>
+
+<h3>Particle System VFX_Kill</h3>
+
+<table border="0">
+    <tr>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ParticleSystem_VFXKill_Emission.png" width="490" height="550"/></td>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ParticleSystem_VFXKill_Shape_Size-over-Lifetime.png" width="490" height="440"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ParticleSystem_VFXKill_Renderer..png" width="490" height="440"/></td>
+    </tr>
+</table>

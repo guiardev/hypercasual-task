@@ -201,6 +201,8 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
 
 <h3>Piece 01 Start</h3>
 
++ Peça inicial que o jogo começa quando é criado o cenário.
+
 <table border="0">
     <tr>
         <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_01_Start.png" width="580" height="570"/></td>

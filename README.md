@@ -212,6 +212,8 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
 
 <h3>LineRenderer</h3>
 
++ A LineRenderer vai criar um line que traçada duas cilindro.
+
 <table border="0">
     <tr>
         <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_LineRenderer.png" width="650" height="480"/></td>
@@ -219,8 +221,11 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
     </tr>
 </table>
 
-<img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Script_LineRenderer.png" width="490" height="161"/>
+<h3>Script LineRenderer</h3>
 
++ O script vai configurar onde posição dos pontos da linha onde elas vão passar e variável positions e lista que pode vários objetos onde a linha vai passar.
+
+<img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Script_LineRenderer.png" width="490" height="161"/>
 
 <h3>ItemCollectableCoin</h3>
 

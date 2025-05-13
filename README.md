@@ -212,6 +212,8 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
 
 <h3>Particle System Coins</h3>
 
++ O particle system coins vai ser ativado quando o player pegar as moedas e vai desaparecer por uns segundos.
+
 <table border="0">
     <tr>
       <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/Records/Movie_coins.gif" width="450" height="650"/></td>

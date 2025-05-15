@@ -1,4 +1,4 @@
-# --- Hypercasual ---
+# Hypercasual
 
 O jogo hypercasuals para celular no estilo corrida infinita com obstáculos e moedas e power ups.
 

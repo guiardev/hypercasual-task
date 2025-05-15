@@ -4,8 +4,8 @@ O jogo hypercasuals para celular no estilo corrida infinita com obstáculos e mo
 
 <h2>Sumario</h2>
     <ol>
-        <li><h3><a href="#C1">Menu Game</a></h3></li>
-        <li><h3><a href="#C2">VFX and Particulas</a></h3></li>
+        <li><h4><a href="#C1">Menu Game</a></h4></li>
+        <li><h4><a href="#C2">VFX and Particulas</a></h4></li>
     </ol>
 
 <h1 id="C1">Menu Game</h1>

@@ -2,7 +2,7 @@
 
 O jogo hypercasuals para celular no estilo corrida infinita com obstáculos e moedas e power ups.
 
-<h2>Sumario</h2>
+<h2>Sumário</h2>
     <ol>
         <li><h4><a href="#C1">Menu Game</a></h4></li>
         <li><h4><a href="#C2">Controler player touch</a></h4></li>

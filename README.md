@@ -1,3 +1,7 @@
+# --- Hypercasual ---
+
+O jogo hypercasuals para celular no estilo corrida infinita com obstáculos e moedas e power ups.
+
 # Menu Game
 
 O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo começa.

@@ -5,7 +5,15 @@ O jogo hypercasuals para celular no estilo corrida infinita com obstáculos e mo
 <h2>Sumario</h2>
     <ol>
         <li><h4><a href="#C1">Menu Game</a></h4></li>
-        <li><h4><a href="#C2">VFX and Particulas</a></h4></li>
+        <li><h4><a href="#C2">Controler player touch</a></h4></li>
+        <li><h4><a href="#C3">Moedas</a></h4></li>
+        <li><h4><a href="#C4">Obstáculos</a></h4></li>
+        <li><h4><a href="#C5">Gameover</a></h4></li>
+        <li><h4><a href="#C6">PowerUps</a></h4></li>
+        <li><h4><a href="#C7">Animation</a></h4></li>
+        <li><h4><a href="#C8">Level Manager</a></h4></li>
+        <li><h4><a href="#C9">Level Manager Pieces</a></h4></li>
+        <li><h4><a href="#C10">VFX and Particulas</a></h4></li>
     </ol>
 
 <h1 id="C1">Menu Game</h1>
@@ -28,7 +36,7 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
     </tr>
 </table>
 
-# Controler player touch
+<h1 id="C2">Controler player touch</h1>
 
 <h3>PlayerController</h3>
 
@@ -45,7 +53,7 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
     </tr>
 </table>
 
-# Moedas
+<h1 id="C3">Moedas</h1>
 
 <h3>ItemCollectableCoin</h3>
 
@@ -73,7 +81,7 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
     </tr>
 </table>
 
-# Obstáculos
+<h1 id="C4">Obstáculos</h1>
 
 <h3>Enemy_MovimentHelper</h3>
 
@@ -86,7 +94,7 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
     </tr>
 </table>
 
-# Gameover
+<h1 id="C5">Gameover</h1>
 
 <h3>BtnRestart</h3>
 
@@ -99,7 +107,7 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
     </tr>
 </table>
 
-# PowerUps
+<h1 id="C6">PowerUps</h1>
 
 <ol>
 
@@ -160,7 +168,7 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
 
 </ol>
     
-# Animation
+<h1 id="C7">Animation</h1>
 
 <h3>Animator</h3>
 
@@ -174,7 +182,7 @@ O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo come
 
 <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_AnimatorManager.png" width="480" height="350"/></td>
 
-# Level Manager
+<h1 id="C8">Level Manager</h1>
 
 <h3>Level Manager</h3>
 
@@ -207,7 +215,7 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
 
 <img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ColorManager.png" width="480" height="450"/>
 
-# Level Manager Pieces
+<h1 id="C9">Level Manager Pieces</h1>
 
 <h3>Piece 01 Start</h3>
 
@@ -275,7 +283,7 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
     </tr>
 </table>
 
-<h1 id="C2">VFX and Particulas</h1>
+<h1 id="C10">VFX and Particulas</h1>
 
 <h3>TrailRenderer</h3>
 

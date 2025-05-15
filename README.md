@@ -210,6 +210,50 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
     </tr>
 </table>
 
+<h3>Piece 02 Coins e Piece 03 Coins</h3>
+
++ Peça que vai esta moedas do jogo.
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_02_Coins.png" width="580" height="570"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_03_Coins.png" width="580" height="570"/></td>
+    </tr>
+</table>
+
+<h3>Scripts LevelPieceBase ColorChange, piece 2 e 3</h3>
+
++ O script LevelPieceBase vai cuidar onde vão começar monta peça que vai ficar atrás. E o ColorChange vai gerenciar as cores da peça.
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_02_Coins_LevelPieceBase_ColorChange.png" width="480" height="380"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_03_Coins_LevelPieceBase_ColorChange.png" width="480" height="380"/></td>
+    </tr>
+</table>
+
+<h3>Piece 02 Enemy e Piece 03 Enemy</h3>
+
++ Peça que vai esta moedas do jogo.
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_04_Enemy.png" width="580" height="570"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_05_Enemy.png" width="580" height="570"/></td>
+    </tr>
+</table>
+
+<h3>Scripts LevelPieceBase ColorChange, piece 4 e 5</h3>
+
++ O script LevelPieceBase vai cuidar onde vão começar monta peça que vai ficar atrás. E o ColorChange vai gerenciar as cores da peça.
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_04_Enemy_LevelPieceBase_ColorChange.png" width="480" height="380"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_05_Enemy_LevelPieceBase_ColorChange.png" width="480" height="380"/></td>
+    </tr>
+</table>
+
 # VFX and Particulas.
 
 <h3>TrailRenderer</h3>

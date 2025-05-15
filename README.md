@@ -210,9 +210,20 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
     </tr>
 </table>
 
+<h3>Piece 01 End</h3>
+
++ Peça que vai ficar no final do jogo.
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_01_End.png" width="580" height="570"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_01_End_levelpieceBase_ColorChange.png" width="480" height="380"/></td>
+    </tr>
+</table>
+
 <h3>Piece 02 Coins e Piece 03 Coins</h3>
 
-+ Peça que vai esta moedas do jogo.
++ Peça que vai esta com moedas do jogo.
 
 <table border="0">
     <tr>
@@ -232,9 +243,9 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
     </tr>
 </table>
 
-<h3>Piece 02 Enemy e Piece 03 Enemy</h3>
+<h3>Piece 04 Enemy e Piece 05 Enemy</h3>
 
-+ Peça que vai esta moedas do jogo.
++ Peça que vai estar com moedas e obstáculo do jogo.
 
 <table border="0">
     <tr>

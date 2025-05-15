@@ -206,7 +206,7 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
 <table border="0">
     <tr>
         <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_01_Start.png" width="580" height="570"/></td>
-        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_01_Start_levelpieceBase_ColorChange.png" width="480" height="380"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_01_Start_levelpieceBase_ColorChange.png" width="480" height="322"/></td>
     </tr>
 </table>
 
@@ -217,7 +217,7 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
 <table border="0">
     <tr>
         <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_01_End.png" width="580" height="570"/></td>
-        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_01_End_levelpieceBase_ColorChange.png" width="480" height="380"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_01_End_levelpieceBase_ColorChange.png" width="480" height="322"/></td>
     </tr>
 </table>
 
@@ -238,8 +238,8 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_02_Coins_LevelPieceBase_ColorChange.png" width="480" height="380"/></td>
-        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_03_Coins_LevelPieceBase_ColorChange.png" width="480" height="380"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_02_Coins_LevelPieceBase_ColorChange.png" width="480" height="322"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_03_Coins_LevelPieceBase_ColorChange.png" width="480" height="322"/></td>
     </tr>
 </table>
 
@@ -260,8 +260,8 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_04_Enemy_LevelPieceBase_ColorChange.png" width="480" height="380"/></td>
-        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_05_Enemy_LevelPieceBase_ColorChange.png" width="480" height="380"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_04_Enemy_LevelPieceBase_ColorChange.png" width="480" height="322"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_05_Enemy_LevelPieceBase_ColorChange.png" width="480" height="322"/></td>
     </tr>
 </table>
 

@@ -197,6 +197,19 @@ que vai estar todas as configurações das peças e definindo que tipo de peças
 
 <img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_ColorManager.png" width="480" height="450"/>
 
+# Level Manager Pieces
+
+<h3>Piece 01 Start</h3>
+
++ Peça inicial que o jogo começa quando é criado o cenário.
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_01_Start.png" width="580" height="570"/></td>
+        <td><img src="https://github.com/guiardev/hypercasual-task/blob/develop/Assets/imgs/img_Piece_01_Start_levelpieceBase_ColorChange.png" width="480" height="380"/></td>
+    </tr>
+</table>
+
 # VFX and Particulas.
 
 <h3>TrailRenderer</h3>

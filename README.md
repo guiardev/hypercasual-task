@@ -3,10 +3,12 @@
 O jogo hypercasuals para celular no estilo corrida infinita com obstáculos e moedas e power ups.
 
 <h2>Sumario</h2>
-    <h3><a href="#C1">Menu Game</a></h3>
-    <h3><a href="#C2">VFX and Particulas</a></h3>
+    <ol>
+        <li><h3><a href="#C1">Menu Game</a></h3></li>
+        <li><h3><a href="#C2">VFX and Particulas</a></h3></li>
+    </ol>
 
-<h1 id="C1">>Menu Game</h1>
+<h1 id="C1">Menu Game</h1>
 
 O menu do jogo vai ter só botão play quando o jogador clicar nesse o jogo começa.
 

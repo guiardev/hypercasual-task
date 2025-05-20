@@ -1,6 +1,6 @@
 # Hypercasual
 
-O jogo hypercasuals para celular no estilo corrida infinita com obstáculos e moedas e power ups.
+O jogo hypercasuals para celular no estilo corrida infinita com obstáculos e moedas e power ups. O cenário é montado randomizado com as peças em linha reta.
 
 <h2>Sumário</h2>
     <ol>
